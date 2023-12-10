@@ -1,7 +1,7 @@
 body {
             font-family: Arial, sans-serif;
             color: #ffffff;
-            background-image: url('Fons_felicitacio.png'); /* Afegim la imatge de fons */
+            background-image: url("Fons_felicitacio.png"); /* Afegim la imatge de fons */
             background-size: cover; /* Escalat de la imatge per cobrir tot el fons */
             background-repeat: no-repeat; /* Evita la repetició de la imatge */
             display: flex;
