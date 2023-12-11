@@ -8,6 +8,7 @@ body {
             justify-content: center;
             align-items: center;
             height: 100vh;
+            width: auto;
             margin: 0;
             overflow: hidden;
         }
@@ -124,6 +125,12 @@ body {
             display: none;
         }
         
+        @media screen and (max-width: 600px){
+            .class {
+                width: 100%;
+            }
+
+        }
 
         @keyframes appear {
             0% {
